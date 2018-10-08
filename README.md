@@ -6,7 +6,7 @@ Overview
 This is my solution to the Traffic Sign Classifier Project of the Udacity Self-Driving Car Engineer Nanodegree Program.
 In this project, the goal is to use deep neural networks and convolutional neural networks to train and validate a model so it can classify traffic sign images using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). 
 
-[Here](./writeup.pdf) is a detailed writeup report.
+[Here](./Writeup.pdf) is a detailed writeup report.
 
 The Project
 ---
